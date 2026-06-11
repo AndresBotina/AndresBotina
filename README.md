@@ -7,13 +7,14 @@ Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Cons
 Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA generativa. Diseño arquitecturas limpias, modulares y bases de datos altamente optimizadas, lo que me permite integrar modelos de lenguaje (LLMs) y herramientas de automatización en entornos de producción reales y estables. Me apasiona transformar flujos de trabajo complejos y manuales en sistemas autónomos, eficientes y listos para escalar.
 
 
-¿Qué aporto a un equipo técnico?
+Backend & APIs: Arquitecturas robustas y APIs rápidas con Python (FastAPI) y Node.js (Express).
 
-Desarrollo Backend y APIs: Creación de arquitecturas robustas y APIs rápidas utilizando Python (FastAPI) y Node.js (Express).
-IA y Gestión de Datos: Implementación de pipelines de recuperación de información (RAG) optimizados mediante bases de datos vectoriales (PostgreSQL con pgvector, Supabase,Qdrant) e integración avanzada de LLMs.
-Automatización de Procesos: Diseño de flujos lógicos complejos de backend y orquestación de herramientas como n8n.
-Cultura DevOps y Cloud: Despliegue y contenedorización de aplicaciones utilizando Docker, gestionando infraestructura en plataformas como Railway, Render y Vercel.
----
+IA & Datos: Pipelines RAG, bases de datos vectoriales (PostgreSQL, Supabase) e integración de LLMs.
+
+Automatización: Flujos lógicos complejos y orquestación con n8n.
+
+DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel.
+
 
 ##  Tecnologías
 
