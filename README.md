@@ -8,17 +8,18 @@ Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA g
 
 <br/>
 <!-- ====== STATS ====== -->
-## Stats
+Estadísticas
 
+<!-- Gráfico de actividad -->
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresBotina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=06B6D4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBotina&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&langs_count=8" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresBotina&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBotina&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6366F1&line=06B6D4&point=6366F1&area=true&area_color=06B6D4" width="95%" />
 </div>
 <br/>
-<!-- ====== CONTACTO ====== -->
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBotina&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366F1&langs_count=8" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresBotina&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" />
+</div>
+<br/>
 
 Backend & APIs: Arquitecturas robustas y APIs rápidas con Python (FastAPI) y Node.js (Express).
 
