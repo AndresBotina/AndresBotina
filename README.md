@@ -12,7 +12,7 @@ Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA g
 
 <!-- Gráfico de actividad -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBotina&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6366F1&line=06B6D4&point=6366F1&area=true&area_color=06B6D4" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBotina&theme=tokyo-night&hide_border=true&bg_color=00000000&color=990000&line=660000&point=990000&area=true&area_color=660000" width="95%" />
 </div>
 <br/>
 <!-- Stats + Lenguajes -->
