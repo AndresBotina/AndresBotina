@@ -37,29 +37,28 @@ Automatización: Flujos lógicos complejos y orquestación con n8n.
 DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel.
 
 
-##  Tecnologías
 
-### Backend
+###  Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+#### Backend & AI Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,langchain,n8n" alt="Backend & AI" />
+</p>
 
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Tools & Tecnology
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+#### Frontend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,postgres,docker,git" alt="Frontend & Tools" />
+</p>
 
 ---
 
 ###  Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cacbotina@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AndresBotina)
+<p align="left">
+  <a href="mailto:cacbotina@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
+  <a href="https://github.com/AndresBotina">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+</p>
