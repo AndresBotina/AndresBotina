@@ -1,4 +1,4 @@
-# Hola, soy Andrés Botina 
+# Hola, soy Andrés B.
 
 ### Desarrollador de Software | IA & Automatización
 
