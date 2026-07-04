@@ -36,7 +36,7 @@ Automatización: Flujos lógicos complejos y orquestación con n8n.
 
 DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel.
 
-
+## Adaptability
 
 ###  Tech Stack
 
