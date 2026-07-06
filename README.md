@@ -1,4 +1,4 @@
-# Hola, soy Andrés B.
+# Hola, soy Andrés B
 
 ### Desarrollador de Software | IA & Automatización
 
@@ -36,7 +36,6 @@ Automatización: Flujos lógicos complejos y orquestación con n8n.
 
 DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel.
 
-## Adaptability
 
 ###  Tech Stack
 
