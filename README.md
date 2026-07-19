@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software | IA & Automatización
 
-Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Construyo agentes de IA, pipelines RAG y flujos de automatización que resuelven problemas reales de negocio, de extremo a extremo, del diseño al despliegue :) .
+Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Construyo agentes de IA, pipelines RAG y flujos de automatización que resuelven problemas reales de negocio, de extremo a extremo, del diseño al despliegue :)
 
 Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA generativa. Diseño arquitecturas limpias, modulares y bases de datos altamente optimizadas, lo que me permite integrar modelos de lenguaje (LLMs) y herramientas de automatización en entornos de producción reales y estables. Me apasiona transformar flujos de trabajo complejos y manuales en sistemas autónomos, eficientes y listos para escalar.
 
