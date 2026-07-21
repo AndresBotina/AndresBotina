@@ -23,7 +23,7 @@ Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA g
 <br/>
 <!-- Racha de contribuciones -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresBotina&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresBotina&theme=tokyonight&hide_border=true&background=00000000&ring=990000&fire=660000&currStreakLabel=990000" />
 </div>
 <br/>
 
