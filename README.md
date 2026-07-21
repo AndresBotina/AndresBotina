@@ -1,6 +1,6 @@
 # Hola, soy Andrés CB
 
-### Desarrollador de Software | IA & Automatización
+### | Desarrollador de Software | IA & Automatización |
 
 Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Construyo agentes de IA, pipelines RAG y flujos de automatización que resuelven problemas reales de negocio, de extremo a extremo, del diseño al despliegue :)
 
