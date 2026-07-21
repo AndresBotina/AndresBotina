@@ -20,11 +20,7 @@ Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA g
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresBotina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=990000&icon_color=660000&hide_rank=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBotina&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=990000&langs_count=8" />
 </div>
-<br/>
-<!-- Racha de contribuciones -->
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresBotina&theme=tokyonight&hide_border=true&background=00000000&ring=990000&fire=660000&currStreakLabel=990000" />
-</div>
+
 <br/>
 
 
