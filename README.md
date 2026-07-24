@@ -40,7 +40,7 @@ DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel
   <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,langchain,n8n" alt="Backend & AI" />
 </p>
 
-#### Frontend & Tools
+#### Frontend & Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,postgres,docker,git" alt="Frontend & Tools" />
 </p>
