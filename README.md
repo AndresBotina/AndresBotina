@@ -16,13 +16,8 @@ Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA g
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBotina&theme=tokyo-night&hide_border=true&bg_color=00000000&color=990000&line=660000&point=990000&area=true&area_color=660000" width="95%" />
 </div>
 <br/>
-<!-- Stats + Lenguajes -->
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresBotina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=990000&icon_color=660000&hide_rank=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBotina&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=990000&langs_count=8" />
-</div>
 
-<br/>
+
 
 
 Backend & APIs: Arquitecturas robustas y APIs rápidas con Python (FastAPI) y Node.js (Express).
