@@ -4,35 +4,39 @@
 
 Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Construyo agentes de IA, pipelines RAG y flujos de automatización que resuelven problemas reales de negocio, de extremo a extremo, del diseño al despliegue :)
 
-Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA generativa. Diseño arquitecturas limpias, modulares y bases de datos altamente optimizadas, lo que me permite integrar modelos de lenguaje (LLMs) y herramientas de automatización en entornos de producción reales y estables. Me apasiona transformar flujos de trabajo complejos y manuales en sistemas autónomos, eficientes y listos para escalar.
-
+Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA generativa y la automatización empresarial. Diseño arquitecturas limpias, modulares y bases de datos altamente optimizadas, lo que me permite integrar modelos de lenguaje (LLMs), agentes conversacionales y herramientas como Microsoft Power Platform en entornos de producción reales y estables. Me apasiona transformar flujos de trabajo complejos y manuales en sistemas autónomos, eficientes y listos para escalar.
 
 <br/>
 <!-- ====== STATS ====== -->
- Estadísticas
+Estadísticas
 
 <!-- Gráfico de actividad -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresBotina&theme=tokyo-night&hide_border=true&bg_color=00000000&color=009933&line=006622&point=009933&area=true&area_color=006622" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresBotina&show_icons=true&theme=tokyo-night&hide_border=true" alt="GitHub Stats" />
 </div>
 <br/>
 
-
-
 Backend & APIs: Arquitecturas robustas y APIs rápidas con Python (FastAPI) y Node.js (Express).
 
-IA & Datos: Pipelines RAG, bases de datos vectoriales (PostgreSQL, Supabase) e integración de LLMs.
+IA & Datos: Pipelines RAG, agentes con Copilot Studio, bases de datos vectoriales (PostgreSQL, Supabase) e integración de LLMs.
 
-Automatización: Flujos lógicos complejos y orquestación con n8n.
+Automatización & Enterprise Solutions: Flujos lógicos complejos y orquestación con n8n, Power Automate, Power Apps y ecosistema SharePoint.
 
 DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel.
 
-
-###  Tech Stack
+### Tech Stack
 
 #### Backend & AI Automation
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,langchain,n8n" alt="Backend & AI" />
+</p>
+
+#### Enterprise Automation & Low-Code (Microsoft Ecosystem)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Copilot%20Studio-008080?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" />
 </p>
 
 #### Frontend & Herramientas
@@ -42,7 +46,7 @@ DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel
 
 ---
 
-###  Contacto
+### Contacto
 
 <p align="left">
   <a href="mailto:cacbotina@gmail.com">
