@@ -7,14 +7,6 @@ Desarrollador junior enfocado en Inteligencia Artificial y Automatización. Cons
 Mi enfoque combina la solidez del desarrollo backend con el potencial de la IA generativa y la automatización empresarial. Diseño arquitecturas limpias, modulares y bases de datos altamente optimizadas, lo que me permite integrar modelos de lenguaje (LLMs), agentes conversacionales y herramientas como Microsoft Power Platform en entornos de producción reales y estables. Me apasiona transformar flujos de trabajo complejos y manuales en sistemas autónomos, eficientes y listos para escalar.
 
 <br/>
-<!-- ====== STATS ====== -->
-Estadísticas
-
-<!-- Gráfico de actividad -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresBotina&show_icons=true&theme=tokyo-night&hide_border=true" alt="GitHub Stats" />
-</div>
-<br/>
 
 Backend & APIs: Arquitecturas robustas y APIs rápidas con Python (FastAPI) y Node.js (Express).
 
