@@ -47,4 +47,7 @@ DevOps & Cloud: Contenedores con Docker y despliegue en Railway, Render y Vercel
   <a href="https://github.com/AndresBotina">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
+  <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
 </p>
